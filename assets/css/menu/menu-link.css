@@ -1,0 +1,28 @@
+.menu__link {
+    color: #808080;
+    text-decoration: none;
+}
+
+.menu__link.ativo {
+    color: #333333;
+    font-weight: bold;
+}
+
+.menu__link:hover {
+    text-decoration: underline;
+}
+
+@media screen and (min-width: 0) {
+    .menu__link {
+        font-size: .8rem;
+        margin: 0 0.3rem;
+    } 
+}
+
+
+@media screen and (min-width: 768px) {
+    .menu__link {
+        font-size: 1rem;
+        margin: 0 1.25rem;
+    } 
+}
