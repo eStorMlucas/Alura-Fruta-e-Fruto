@@ -1,5 +1,5 @@
 # Arquitetura-CSS
-**Alura** CSS course ministred by **Matheus Henrique**: <a href="https://cursos.alura.com.br/course/arquitetura-css" target="_blank"> Click here to Access </a>
+**Alura** CSS course ministred by **Matheus Henrique Castiglioni**: <a href="https://cursos.alura.com.br/course/arquitetura-css" target="_blank"> Click here to Access </a>
 
 # Site Preview
 ![Site preview screenshot](assets/img/screenshot.png)
