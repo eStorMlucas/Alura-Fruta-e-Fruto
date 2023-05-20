@@ -1,14 +1,16 @@
-# arquitetura-css
-curso de arquitetura da Alura.
+# Arquitetura-CSS
+**Alura** CSS course ministred by **Matheus Henrique**: <a href="https://cursos.alura.com.br/course/arquitetura-css" target="_blank"> Click here to Access </a>
 
-Protótipo: https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1&t=wFMuO88msLJMevhP-0; 
+# Site Preview
+![Site preview screenshot](assets/img/screenshot.png)
 
-# Metodologia BEM 
+### [Figma project link](https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1&t=wFMuO88msLJMevhP-0;)
 
-Bloco Elemento Modificador
+# Course Idea 
+  > In this course were going build the "Alura Fruta & Fruto" page, that page contains recipes for better alimentation
+  > of course we want to do this using new concepts of CSS arquiteture and CSS nomeclatures to improve the future refactoring experience
 
-Bloco__Elemento
-
-Bloco--Modificador
-
-Bloco__Elemento--Modificador
+# Major Knowledges
+  - Atomic Design
+  - BEM methodology
+  
