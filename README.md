@@ -7,8 +7,9 @@
 ### [Figma project link](https://www.figma.com/file/0gMF5BPgplPYqQA6Om1T1sk9/alura-bootstrap?node-id=0%3A1&t=wFMuO88msLJMevhP-0;)
 
 # Course Idea 
-  > In this course were going build the "Alura Fruta & Fruto" page, that page contains recipes for better alimentation
-  > of course we want to do this using new concepts of CSS arquiteture and CSS nomeclatures to improve the future refactoring experience
+  > In this course, we are going build the "Alura Fruta & Fruto" page, which contains recipes for better alimentation.
+  > Of course, we want to do this site using new concepts of CSS architeture and CSS nomenclatures to improve the future
+  > refactoring experience.
 
 # Major Knowledges
   - Atomic Design
